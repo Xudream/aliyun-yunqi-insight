@@ -8,6 +8,7 @@
 |---|---|
 | [云栖大会2026深度洞察.md](云栖大会2026深度洞察.md) | 主洞察文档：战略定调 / 重磅发布全景 / 120+ 分论坛地图 / 演讲视频资源 / 资本解读 / 反方视角 / 跨维洞察 / 自研关联 / 来源台账 |
 | [附录A-吴泳铭云栖演讲全文.md](附录A-吴泳铭云栖演讲全文.md) | 吴泳铭《机器智能时代》主旨演讲全文（开幕主论坛，一手材料存档） |
+| [语音专场/](语音专场/) | **语音专项下钻**（2026-10 增补）：专场深度洞察 md + 6 页洞察 PPT + 现场 PPT 截图素材 |
 
 ## 一句话速览
 
@@ -17,7 +18,7 @@
 
 - **芯片**：平头哥真武 V900（216GB 显存 / 1200GB/s 互联 / FP8/FP4 / 50 万卡集群）
 - **模型**：Qwen4 四款全官宣（27B 唯一开源）、RSI 三组实测（33 轮零人类迭代 / 吞吐 +96% / EDA 面积 -42%）、Qwen3.8-Max AA 40→45 分
-- **语音**：Qwen-Audio-3.1 ASR-Next / TTS-Next / Realtime 全家桶 + Qwen3.8-LiveTranslate 同传 <2.5s
+- **语音**（专场 9/23，详见 `语音专场/`）：Qwen-Audio-3.1 三大系列 —— ASR 五款模型家族（Filetrans/Streaming/Message/ASR-Flash/ASR-Next）、TTS 全声景生成（第 4 代）、Realtime 全双工（Harness 分层架构开源）
 - **云**：Agentic Cloud（AgentCore / AgentSandbox / Agentic OS / Context Engine / 新一代 CPFS / Tair KVCM）
 - **办公**：千问办公"企业上下文"Enterprise Context + 数字员工 + QwenNote A2/Eva 硬件
 - **终端**：Qwen Intelligence 手机方案（荣耀 Magic9 9/28 首发）
@@ -28,6 +29,7 @@
 - 开幕式主论坛全程回放：B站 BV1p3hE6iEgW
 - 技术主论坛 Agentic Cloud：BV1cdhE6iEdM / MaaS & Agent：BV1K1hE6VEhq / 无法计算的价值：BV13Yht6VELM
 - 千问办公专场：BV1fRhx6JEji
+- **千问语音大模型专场（官方回放，画面来源）**：https://yunqi.aliyun.com/2026/session?agendaId=146
 - YouTube：吴泳铭主旨演讲 https://www.youtube.com/watch?v=0mKEzZmKXxw
 
 ## 数据可信度提醒
